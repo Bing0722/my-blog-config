@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Bing's Blog
 subtitle: ""
-description: ""
-keywords:
-author: John Doe
-language: en
-timezone: ""
+description: "记录学习的个人博客"
+keywords: "学习,技术,生活"
+author: Bing
+language: zh-CN
+timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://my-blog-t9ol.vercel.app/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -40,7 +40,7 @@ external_link:
   exclude: ""
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
